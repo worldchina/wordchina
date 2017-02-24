@@ -1,0 +1,16 @@
+{
+    "name": "worldchina/wordchina",
+    "description": "this is a composer",
+    "authors": [
+        {
+            "name": "worldchina",
+            "email": "1240048988@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "lib/"
+        ]
+    }
+}
